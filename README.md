@@ -6,7 +6,7 @@ A collection of web projects focused on performance, SEO, and user experience.
 
 ### 🏋️ Michele Ferrulli - Professional Coaching
 - **Status**: Live 🟢
-- **URL**: [micheleferrulli.com](https://micheleferrulli.com)
+- **URL**: [micheleferrulli.com](https://michele-ferrulli-com.pages.dev/)
 - **Tech Stack**: Next.js 14 (App Router), Tailwind CSS, Cloudflare Pages.
 - **Key Features**: 
   - SEO optimization via dynamic sitemap and robots.txt.
